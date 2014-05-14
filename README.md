@@ -1,4 +1,5 @@
-jsoneditor
+A Simple JSON Editor
 ==========
 
-JSON Editor
+A fun project (ongoing). 
+
