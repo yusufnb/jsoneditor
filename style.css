@@ -1,0 +1,16 @@
+#root {font-family: "Courier";}
+#root div {padding-left: 20px;}
+#root level0 { margin-left: 20px;}
+#root level1 { margin-left: 40px;}
+#root level2 { margin-left: 60px;}
+#root level3 { margin-left: 80px;}
+#root level4 { margin-left: 100px;}
+#root level5 { margin-left: 120px;}
+#root level6 { margin-left: 140px;}
+#root level7 { margin-left: 160px;}
+#root level8 { margin-left: 180px;}
+#root a { margin-left: 10px; display: none;}
+textarea {width: 400px; height: 100%;}
+.node { border: 1px solid #fff;}
+.over {border: 1px solid #f00;}
+.target { border: 1px solid blue;}
